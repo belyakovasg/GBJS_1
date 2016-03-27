@@ -1,0 +1,20 @@
+table {
+    margin: 20px;
+}
+
+tr, td {
+    border: 1px solid black;
+       /*background: red;*/
+}
+
+#chessBoard td {
+    width: 30px;
+    height: 30px;
+}
+#table_from_js {
+    width: 500px;
+}
+
+.active {
+    background: red !important;
+}
